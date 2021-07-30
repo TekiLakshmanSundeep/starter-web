@@ -1,1 +1,5 @@
 Quick brown fox jumps over lazy dog
+
+My Simple text 1
+
+My Simple text 2
